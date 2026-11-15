@@ -1,24 +1,53 @@
+# Kalapcher – Media Downloader
 
-# Kalapcher
+**A simple and powerful media downloader for Windows.**
 
-A Windows desktop app for downloading videos and media from YouTube, Instagram, X and Pinterest.
+Kalapcher helps you download videos, audio, images, and GIFs from popular social media platforms through a clean and user-friendly interface.
 
-## Download
+## Supported Platforms
 
-Get the latest Setup file from the [Releases](https://github.com/uyscuti006/kalapcher/releases) page.
+- YouTube
+- Instagram
+- X (Twitter)
+- Pinterest
 
 ## Features
 
-- Paste a link (or several links) and download
-- Download queue with pause, cancel and retry
-- Download history
-- Built-in yt-dlp updates, so downloads keep working when sites change
+- Download videos, audio, images, and GIFs
+- Choose available video and audio formats and quality
+- Download audio in MP3 and M4A formats
+- Preserve audio quality and embedded cover artwork
+- Manage multiple downloads with a download queue
+- Pause and resume downloads
+- View download history and retry failed downloads
+- Customize themes and download settings
+- Simple and modern Windows interface
 
-## Requirements
+## Download
 
-- Windows 10 or 11 (64-bit)
+<escape>**Latest Version: 1.0.0**</escape>
 
-## Third-party licenses
+**Windows 10 / 11 – 64-bit**
 
-- yt-dlp: Unlicense
-- Qt / PySide6: LGPL v3
+[Download Kalapcher for Windows](https://github.com/uyscuti006/kalapcher/releases/latest)
+
+You can also download the installer directly:
+
+[Kalapcher-Windows-x64-Setup-1.0.0.exe](https://github.com/uyscuti006/kalapcher/releases/download/1.0.0/Kalapcher-Windows-x64-Setup-1.0.0.exe)
+
+## Installation
+
+1. Download the Windows installer.
+2. Run the `.exe` file.
+3. Follow the installation instructions.
+4. Launch Kalapcher and start downloading.
+
+## System Requirements
+
+- Windows 10 or Windows 11
+- 64-bit (x64) processor
+- Internet connection
+
+## License
+
+Kalapcher is distributed as a pre-built Windows application. This repository provides official release downloads.
